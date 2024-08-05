@@ -1,0 +1,8 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿È×8åİ¡’2
+[
+java:S1874 "9Remove this use of "authorizeRequests"; it is deprecated.(Ğ»¢Úüÿÿÿÿ8ÂŞİ¡’2
+j
+java:S5738#"HRemove this call to a deprecated method, it has been marked for removal.(äØ¹èşÿÿÿÿ8ÄŞİ¡’2
+X
+java:S1874."BRemove this use of "withDefaultPasswordEncoder"; it is deprecated.(¿•¿
